@@ -30,7 +30,6 @@ foreach ($qa_list as $qa) {
   print '<br/></p><hr/>';
 }
 ?>
-
 <p><input type="submit" name="answer_button" value="試験結果"></p>
 </form>
 
